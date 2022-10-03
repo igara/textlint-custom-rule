@@ -1,0 +1,24 @@
+{
+  "textlint.languages": [
+    "php",
+    "html",
+    "typescript",
+    "typescriptreact",
+    "javascript",
+    "javascriptreact",
+    "css",
+    "scss",
+    "markdown",
+    "plaintext",
+    "csv",
+    "json",
+    "yaml",
+    "sql"
+  ],
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.renderControlCharacters": true,
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "files.exclude": {}
+}

@@ -1,0 +1,24 @@
+{
+  "name": "@igara/textlint-custom-rule",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": ">=18.7.0",
+    "npm": "use pnpm",
+    "pnpm": ">=7",
+    "yarn": "use pnpm"
+  },
+  "scripts": {
+    "test": "(cd ./packages/textlint-rule-writing-guideline && npm run test)",
+    "spreadsheet": "(cd ./packages/textlint-rule-writing-guideline && npm run spreadsheet)",
+    "build": "(cd ./packages/textlint-rule-writing-guideline && npm run build)"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@igara/textlint-rule-writing-guideline": "./packages/textlint-rule-writing-guideline",
+    "@textlint/textlint-plugin-text": "12.2.2",
+    "textlint": "12.2.2"
+  }
+}

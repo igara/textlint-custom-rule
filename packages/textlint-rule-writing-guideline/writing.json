@@ -1,0 +1,12 @@
+{
+  "下さい": {
+    "ok": "ください",
+    "ignore": "",
+    "url": "https://docs.google.com/spreadsheets/d/1iYQ3sOOCGFPigtakcpfui0wLUsXwWfqS9TmpUgpiuQY/edit#gid=0&range=2:2"
+  },
+  "\\.": {
+    "ok": "。",
+    "ignore": "[a-zA-Z_0-9]\\.",
+    "url": "https://docs.google.com/spreadsheets/d/1iYQ3sOOCGFPigtakcpfui0wLUsXwWfqS9TmpUgpiuQY/edit#gid=0&range=3:3"
+  }
+}
